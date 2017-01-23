@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tienda de libros</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Acerca de</string>
+    <string name="title_activity_segunda">Carrito de compras</string>
+    <string name="title_activity_tercera">Acerca de</string>
+
+</resources>
